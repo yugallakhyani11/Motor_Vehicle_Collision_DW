@@ -31,10 +31,14 @@ The data for this project is obtained from the Department of Transportation for 
 - **Data Staging**: Staging tables created using Talend for ETL jobs.
 - **Dimensional Model**: Creation of facts and dimensions with mapping documents explaining source to target transformations.
 
+  ![image](https://github.com/yugallakhyani11/Motor_Vehicle_Collision_DW/assets/145067889/727679e8-d715-418d-a250-80a3b7d9a5ce)
+
 ### Part 2: Staging to Integration
 - **ETL Jobs**: Talend ETL jobs for staging to integration.
 - **Validation**: Query dimensional models to validate data and explain any row rejections.
 - **Business Questions**: SQL queries to address provided business questions.
+- **Dimensional Model**: Adding SCDs and Factless Fact to accomodate additional business requirements.
+  ![image](https://github.com/yugallakhyani11/Motor_Vehicle_Collision_DW/assets/145067889/8f749071-d6bd-4b89-9ad4-800e0cb5d98f)
 
 ### Part 3: Visualizations
 - **Tools**: Tableau and Power BI.
